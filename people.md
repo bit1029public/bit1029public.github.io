@@ -24,7 +24,7 @@ collectionpage: pages
 ##### Ph.D. students
 <br>
 
-<p style="text-align:justify;"><img class="bio" src="/images/bios/hyZang.jpg" float="left" clear="both" align="left" width="120"><strong>Hongyu Zang</strong>. Hongyu is currently a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. </p> 
+<p style="text-align:justify;"><img class="bio" src="/images/bios/hyZang.jpg" float="left" clear="both" align="left" width="120"><strong>Hongyu Zang</strong>. Hongyu is currently a second-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. </p> 
 
 ##### M.S. and undergraduate students
 <br>
@@ -33,17 +33,19 @@ collectionpage: pages
 
 <p style="text-align:justify;"><img class="bio" src="/images/bios/huangjie.jpeg" float="left" clear="both" align="left" width="120"><strong>Jie Huang</strong>. Jie is a second-year M.S. student in computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning and inverse reinforcement learning algorithms to robot control fields. </p>
 
-<p style="text-align:justify;"><img class="bio" src="/images/bios/Zli.jpeg" float="left" clear="both" align="left" width="120"><strong>Li Zhang</strong>. Li is a third-year M.S. student in Computer Science at Beijing Instite of Technology, from which he also recevived his B.Sc. degree. Li's research interest includes model-free learning, model-based planning, their combination in both of reinforcement learning and imitation learning, partially observability, hierarchical DRL and multi-agent DRL. His work aims to build powerful, interpretable, verifiable, efficient, stable and reliable DRL methods, making DRL more pratical. </p>
+<!-- <p style="text-align:justify;"><img class="bio" src="/images/bios/Zli.jpeg" float="left" clear="both" align="left" width="120"><strong>Li Zhang</strong>. Li is a third-year M.S. student in Computer Science at Beijing Instite of Technology, from which he also recevived his B.Sc. degree. Li's research interest includes model-free learning, model-based planning, their combination in both of reinforcement learning and imitation learning, partially observability, hierarchical DRL and multi-agent DRL. His work aims to build powerful, interpretable, verifiable, efficient, stable and reliable DRL methods, making DRL more pratical. </p> -->
 
 <p style="text-align:justify;"><img class="bio" src="/images/bios/shuqi.jpeg" float="left" clear="both" align="left" width="120"><strong>Shuqi Yang</strong>. Shuqi is a first-year M.S. student  at the School of Computer Science, Beijing Institute of Technology. He received his Bachelor's degree in Computer Science and Technology at Zhengzhou University. His research focuses on partially observable deep reinforcement learning. </p>
 
-
+<p style="text-align:justify;"><img class="bio" src="/images/bios/leihaojie.jpeg" float="left" clear="both" align="left" width="120"><strong>Haojie Lei</strong>. Haojei Lei.  Haojie is a first-year M.S. student at the School of Computer Science, Beijing Institute of Technology. He received his B.Sc. degree in Jilin University. Lei's research interest includes representation learning within DRL methods, the theoretical performance bounds of DRL methods and partially observable DRL. </p>
 
 ##### Group alumni
 
 <br>
 
-<p style="text-align:justify;"><strong>Xinwen Wang</strong>. Xinwen worked on (deep) reinforcement learning under partially observable environment. He will soon join Microsoft(China) after 6 months internship.</p>
+<p style="text-align:justify;"><strong>Li Zhang</strong>. Li's research interest includes model-free learning, model-based planning, their combination in both of reinforcement learning and imitation learning, partially observability, hierarchical DRL and multi-agent DRL. He is now working at Parametrix.ai. </p>
+
+<p style="text-align:justify;"><strong>Xinwen Wang</strong>. Xinwen worked on (deep) reinforcement learning under partially observable environment. He is now working at Microsoft(China).</p>
 
 <p style="text-align:justify;"><strong>Pengfei Zhu</strong>. Former M.Sc. student, now working at Alibaba.</p>
 
