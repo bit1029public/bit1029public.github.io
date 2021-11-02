@@ -16,6 +16,7 @@ Driven/inspired by many talented researchers, our **1029DRL** Group (led by [礼
 We are currently recruiting Ph.D candidates, master students, senior undergradate students to join our group to work with us and share the thoughts.
 
 ##### Bulletin
+- **09/2021:** Congratulations to Zhang Li. Our [OPDLRL paper](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_49.pdf) got accepted for ECML-PKDD 2021.
 - **05/2020:** Another work related to POMDP tasks [On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability] is published.
 - **05/2020:** A RL paper is submitted to NeurIPS 2020.
 - **04/2020:** Collaborating with Ubisoft, we organized some competitions to test our RL agent in Rabbids: Journey To The West, and our RL agent won all the games.
