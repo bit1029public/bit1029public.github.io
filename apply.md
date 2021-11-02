@@ -8,7 +8,7 @@ The students are much prefered with the following skills/experiences:
 
 - Proactive/self-motivated attitude; and
 
-- Good knowledge of machine learning, statistic; or 
+- Good knowledge of machine learning, statistics; or 
 
 - Good knowledge of deep learning (e.g., CNN, RNN, LSTM); or
 
