@@ -39,7 +39,7 @@ collectionpage: pages
 
 <p style="text-align:justify;"><img class="bio" src="/images/bios/leihaojie.jpg" float="left" clear="both" align="left" width="120"><strong>Haojie Lei</strong>. Haojie is a first-year M.S. student at the School of Computer Science, Beijing Institute of Technology. He received his B.Sc. degree in Jilin University. Lei's research interest includes representation learning within DRL methods, the theoretical performance bounds of DRL methods and partially observable DRL. </p>
 
-<p style="text-align:justify;"><img class="bio" src="/images/bios/leiji.jpg" float="left" clear="both" align="left" width="120"><strong>Leiji Zhang</strong>. Leiji is currently an undergraduate student in Computer Science at Beijing Institute of Technology. His research interests include Deep Reinforcement Learning algorithms and applying Reinforcement Learning methods to unmanned driving.</p>
+<p style="text-align:justify;"><img class="bio" src="/images/bios/leiji.jpg" float="left" clear="both" align="left" width="120"><strong>Leiji Zhang</strong>. Leiji is currently an undergraduate student in Computer Science at Beijing Institute of Technology. His research interests include Deep Reinforcement Learning algorithms and applying Reinforcement Learning methods to autonomous driving systems.</p>
 
 ##### Group alumni
 
