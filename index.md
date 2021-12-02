@@ -16,9 +16,9 @@ Driven/inspired by many talented researchers, our **1029DRL** Group (led by [礼
 We are currently recruiting Ph.D candidates, master students, senior undergradate students to join our group to work with us and share the thoughts.
 
 ##### Bulletin
-- **12/2021:** Congratulations to Hongyu Zang. Our paper [SimSR: Simple Distance-based State Representation\\ for Deep Reinforcement Learning] got accepted for AAAI 2022.
+- **12/2021:** Congratulations to Hongyu Zang. Our paper [SimSR: Simple Distance-based State Representation\\ for Deep Reinforcement Learning]() got accepted for AAAI 2022.
 - **09/2021:** Congratulations to Zhang Li. Our paper [Off-Policy Differentiable Logic Reinforcement Learning](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_49.pdf) got accepted for ECML-PKDD 2021.
-- **05/2020:** Another work related to POMDP tasks [On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability] is published.
+- **05/2020:** Another work related to POMDP tasks [On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability](https://ieeexplore.ieee.org/document/9172883) is published.
 - **05/2020:** A RL paper is submitted to NeurIPS 2020.
 - **04/2020:** Collaborating with Ubisoft, we organized some competitions to test our RL agent in Rabbids: Journey To The West, and our RL agent won all the games.
 - **02/2020:** Zhang Li gives the oral presentation of our UVIN paper in [a recorded video](https://www.youtube.com/watch?v=18IqLrK2ugI&feature=share&fbclid=IwAR3kpUv8H4NQlz3lNl-kZCTI5RD2Ryr3VnlH_4O_32ADt5SwTcqapjX7ryY) at AAAI2020 due to the COVID-19 pandemic.
