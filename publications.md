@@ -10,10 +10,10 @@ collectionpage: pages
 
 <br>
 
-- <p style="text-align:justify;">H.Y. Zang, X. Li, M.Z. Wang. "SimSR: Simple Distance-based State Representation for Deep Reinforcement Learning" AAAI 2022. (CCF A)</p>
-- <p style="text-align:justify;">L. Zhang, X. Li, etc. "Off-Policy Differentiable Logic Reinforcement Learning." ECML/PKDD (2) 2021: 617-632. (CCF B)</p>
-- <p style="text-align:justify;">L. Zhang, X. Li, etc. "Universal Value Iteration Networks: When Spatially-invariant is Not Universal." AAAI 2020: 6778-6785. (CCF A)</p>
-- <p style="text-align:justify;">X. W. Wang, X. Li, etc. "On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability," IEEE International Conference on Data Science in Cyberspace: Big Data and Business Analytics, 2020.</p>
+- <p style="text-align:justify;">Hongyu Zang, Xin Li, Mingzhong Wang. "SimSR: Simple Distance-based State Representation for Deep Reinforcement Learning" AAAI 2022. (CCF A)</p>
+- <p style="text-align:justify;">Li Zhang, Xin Li, etc. "Off-Policy Differentiable Logic Reinforcement Learning." ECML/PKDD (2) 2021: 617-632. (CCF B)</p>
+- <p style="text-align:justify;">Li Zhang, Xin Li, etc. "Universal Value Iteration Networks: When Spatially-invariant is Not Universal." AAAI 2020: 6778-6785. (CCF A)</p>
+- <p style="text-align:justify;">Xinwen Wang, Xin Li, etc. "On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability," IEEE International Conference on Data Science in Cyberspace: Big Data and Business Analytics, 2020.</p>
 - <p style="text-align:justify;">Pengfei Zhu, Xin Li, Pascal Poupart, “On Improving Deep Reinforcement Learning for POMDPs ”. CoRR abs/1704.07978(2017). (cited over 65 times)</p>
 - <p style="text-align:justify;">Xin Li, William K. Cheung, Jiming Liu, "Improving POMDP’s Tractability Via Belief Compression and Clustering", IEEE Transaction on Systems, Man and Cybernetics – Part B 40(1):125-136 Feb, 2010. (CCF A)</p>
 - <p style="text-align:justify;">Xin Li, William K. Cheung, Jiming Liu, Zhili Wu, “A Novel Orthogonal NMF-Based Belief Compression for POMDPs”, in Proceedings of 24th International Conference on Machine Learning (ICML), Pages: 537 -544 Corvallis, OR, US, 2007. (CCF A) </p>
