@@ -10,6 +10,7 @@ collectionpage: pages
 
 <br>
 
+- <p style="text-align:justify;">H.Y. Zang, X. Li, M.Z. Wang. "SimSR: Simple Distance-based State Representation for Deep Reinforcement Learning" AAAI 2022. (CCF A)</p>
 - <p style="text-align:justify;">L. Zhang, X. Li, etc. "Off-Policy Differentiable Logic Reinforcement Learning." ECML/PKDD (2) 2021: 617-632. (CCF B)</p>
 - <p style="text-align:justify;">L. Zhang, X. Li, etc. "Universal Value Iteration Networks: When Spatially-invariant is Not Universal." AAAI 2020: 6778-6785. (CCF A)</p>
 - <p style="text-align:justify;">X. W. Wang, X. Li, etc. "On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability," IEEE International Conference on Data Science in Cyberspace: Big Data and Business Analytics, 2020.</p>
