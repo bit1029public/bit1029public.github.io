@@ -60,7 +60,7 @@ collectionpage: pages
 
 <br> We are proud to have collaborative work with esteemed researchers in ML/RL fields.  
 
-<p style="text-align:justify;"><strong>William K. Cheung</strong>. Associate Professor and Head in the Computer Science Department, Hong Kong Baptist University, Hong Kong, China. <a href="https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william">[Website]</a></p>
+<p style="text-align:justify;"><strong>William K. Cheung</strong>. Associate Vice-President and Professor in Hong Kong Baptist University, Hong Kong, China. <a href="https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william">[Website]</a></p>
 
 
 <p style="text-align:justify;"><strong>Pascal Poupart</strong>. Professor & Canada CIFAR AI Chair at the Vector Institute Artificial Intelligence, Machine Learning, Health Informatics Waterloo AI Institute David R. Cheriton School of Computer Science University of Waterloo, Canada. <a href="https://cs.uwaterloo.ca/~ppoupart/">[Website]</a></p>
