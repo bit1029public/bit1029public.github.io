@@ -57,6 +57,7 @@ collectionpage: pages
 <p style="text-align:justify;"><strong>Guanghui Miao</strong>. Former M.Sc. student, now working at Xiaohongshu.</p>
 
 ##### Events
+<br>
 
 <img class="events" src="/images/events/share01.jpg"  clear="both"  width="200">
 
