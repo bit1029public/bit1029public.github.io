@@ -56,7 +56,7 @@ collectionpage: pages
 
 ##### Events
 
-<img class="events" src="/images/events/share01.jpg" float="left" clear="both" align="left" width="120">
+<img class="events" src="/images/events/share01.jpg" float="left" clear="both" align="left" width="200">
 
 ##### Collaborators
 
