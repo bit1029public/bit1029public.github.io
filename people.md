@@ -26,6 +26,8 @@ collectionpage: pages
 
 <p style="text-align:justify;"><img class="bio" src="/images/bios/hyZang.jpg" float="left" clear="both" align="left" width="120"><strong>Hongyu Zang</strong>. Hongyu is currently a second-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. </p> 
 
+<p style="text-align:justify;"><img class="bio" src="/images/bios/minWang.jpg" float="left" clear="both" align="left" width="120"><strong>Min Wang</strong>. Min is a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. She received her M.Sc. degree from China Ship Research and Development Academy. She focuses on domain knowledge guided reinforcement learning and evolutionary game theory. Her work aims to improve the RL algorithms' sampling efficiency and speed up the agent's learning process. She is also interested in model-based planning and goal-conditioned RL.
+
 ##### M.S. and undergraduate students
 <br>
 
