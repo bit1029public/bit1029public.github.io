@@ -42,8 +42,9 @@ _Key people: Hongyu Zang_
 
 <p style="text-align:justify;">In this project, we focus on learning invariant representation for Reinforcement Learning by extending the previous work of bisimulation metric. We devise Simple State Representation (SimSR) operator. SimSR enables us to design a stochastic approximation method that can practically learn the mapping functions (encoders) from observations to latent representation space.</p>
 
-<p style="text-align:justify;">We test our agents on two visual tasks: visual control tasks whose background is disturbed by natural videos (left), and autonomous driving car in highway (right).</p>
+<p style="text-align:justify;">We test our agents on three visual tasks: visual control tasks, visual control tasks whose background is disturbed by natural videos, and autonomous driving car in highway.</p>
 
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/cartpole_swingup.gif"></div>
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/walker_walk.gif"></div>
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/car.gif"></div>
 <div style="float:none;clear:both;"></div>
