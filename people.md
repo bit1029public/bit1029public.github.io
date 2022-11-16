@@ -33,9 +33,9 @@ collectionpage: pages
 ##### M.S. and undergraduate students
 <br>
 
-<p style="text-align:justify;"><img class="bio" src="/images/bios/chensen.jpeg" float="left" clear="both" align="left" width="120"><strong>Sen Chen</strong>.  Sen is a third-year M.S. student in the Department of BIT computer Science. He focuses on partially observable reinforcement learning. He is also interested in agents building models of the environment in a human intelligent way, such as object recognition, concept learning and commonsense reasoning in the environment. </p>
+<!-- <p style="text-align:justify;"><img class="bio" src="/images/bios/chensen.jpeg" float="left" clear="both" align="left" width="120"><strong>Sen Chen</strong>.  Sen is a third-year M.S. student in the Department of BIT computer Science. He focuses on partially observable reinforcement learning. He is also interested in agents building models of the environment in a human intelligent way, such as object recognition, concept learning and commonsense reasoning in the environment. </p>
 
-<p style="text-align:justify;"><img class="bio" src="/images/bios/huangjie.jpeg" float="left" clear="both" align="left" width="120"><strong>Jie Huang</strong>. Jie is a third-year M.S. student in computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning and inverse reinforcement learning algorithms to robot control fields. </p>
+<p style="text-align:justify;"><img class="bio" src="/images/bios/huangjie.jpeg" float="left" clear="both" align="left" width="120"><strong>Jie Huang</strong>. Jie is a third-year M.S. student in computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning and inverse reinforcement learning algorithms to robot control fields. </p> -->
 
 <!-- <p style="text-align:justify;"><img class="bio" src="/images/bios/Zli.jpeg" float="left" clear="both" align="left" width="120"><strong>Li Zhang</strong>. Li is a third-year M.S. student in Computer Science at Beijing Instite of Technology, from which he also recevived his B.Sc. degree. Li's research interest includes model-free learning, model-based planning, their combination in both of reinforcement learning and imitation learning, partially observability, hierarchical DRL and multi-agent DRL. His work aims to build powerful, interpretable, verifiable, efficient, stable and reliable DRL methods, making DRL more pratical. </p> -->
 
@@ -50,6 +50,10 @@ collectionpage: pages
 ##### Group alumni
 
 <br>
+
+<p style="text-align:justify;"><strong>Sen Chen</strong>. Former M.Sc. student, he focuses on partially observable reinforcement learning.</p>
+
+<p style="text-align:justify;"><strong>Jie Huang</strong>. Former M.Sc. student, now working at Baidu.</p>
 
 <p style="text-align:justify;"><strong>Li Zhang</strong>. Li's research interest includes model-free learning, model-based planning, their combination in both of reinforcement learning and imitation learning, partially observability, hierarchical DRL and multi-agent DRL. He is now working at Parametrix.ai. </p>
 
