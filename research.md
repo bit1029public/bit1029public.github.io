@@ -28,7 +28,7 @@ and ....
 #### **DRL agent for factorizing state representation**
 _Key people: Hongyu Zang_
 
-<p style="text-align:justify;">In the cooperation of our lab and <a href="[https://mila.quebec/]">Mila</a>, we designed a novel DRL framework to address the issue of designing the goal of the agent for high-dimensional sensory inputs by learning factorial representations of goals and processing the resulting representation via a discretization bottleneck.</p>
+<p style="text-align:justify;">In the cooperation of our lab, <a href="https://mila.quebec/">Mila</a>, and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/">MSR-Montreal</a>, we designed a novel DRL framework to address the issue of designing the goal of the agent for high-dimensional sensory inputs by learning factorial representations of goals and processing the resulting representation via a discretization bottleneck.</p>
 
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/img_reconstruct_vq.png"></div>
 <p style="text-align:justify;">We first test our method in Color-MNIST dataset to support the idea that we can learn factorized or compositional representationsin. Color-MNIST example to demonstrate factorized representations; reconstructing the original images with two factors. Leftmost: Original Image; Left-Middle: Reconstructed Image without substitution; Right-Middle: Reconstructed Image with one groups of discrete codes substituted by zero vectors; Rightmost: Reconstructed Image with the other groups of discrete codes substituted by zero vectors. Specifically, factor 1 tends to encode the shape of the digit, while factor 2 specialized in its color.</p>
