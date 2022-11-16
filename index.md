@@ -16,8 +16,10 @@ Driven/inspired by many talented researchers, our **1029DRL** Group (led by [礼
 We are currently recruiting Ph.D candidates, master students, senior undergradate students to join our group to work with us and share the thoughts.
 
 ##### Bulletin
-- **06/2022:** Collaborating with Mila and MSR, we submitted a RL paper to CoRL 2022.
-- **05/2022:** Collaborating with Mila and MSR, we submitted a RL paper to NeurIPS 2022.
+- **10/2022:** Collaborating with Mila and MSR, we submitted a RL paper to AISTATS 2022.
+- **10/2022:** Two RL paper are submitted to ICLR 2023.
+- **10/2022:** Our collaborative paper [Agent-Controller Representations: Principled Offline RL with Rich Exogenous Information](https://openreview.net/forum?id=0pFzg-8y-o&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FWorkshop%2FOffline_RL%2FAuthors%23your-submissions)) got accepted for Offline RL Workshop NeurIPS 2022
+- **09/2022:** Our collaborative paper [Discrete Factorial Representations as an Abstraction for Goal Conditioned Reinforcement Learning](https://arxiv.org/abs/2211.00247) got accepted for NeurIPS 2022.
 - **12/2021:** Congratulations to Hongyu Zang. Our paper [SimSR: Simple Distance-based State Representation for Deep Reinforcement Learning](https://arxiv.org/abs/2112.15303) got accepted for AAAI 2022.
 - **09/2021:** Congratulations to Zhang Li. Our paper [Off-Policy Differentiable Logic Reinforcement Learning](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_49.pdf) got accepted for ECML-PKDD 2021.
 - **05/2020:** Another work related to POMDP tasks [On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability](https://ieeexplore.ieee.org/document/9172883) is published.
