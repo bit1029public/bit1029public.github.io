@@ -46,6 +46,7 @@ _Key people: Hongyu Zang_
 
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/walker_walk.gif"></div>
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/car.gif"></div>
+<div style="float:none;clear:both;"></div>
 
 ##### **DRL agent in Rabbids: 100% win rate against human-players**
 _Key people: Li Zhang_
