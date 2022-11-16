@@ -37,7 +37,7 @@ collectionpage: pages
 
 - <p style="text-align:justify;">Li Liu, Xin Li, William K. Cheung, Lejian Liao. "Structural Representation Learning for User Alignment Across Social Networks" IEEE TKDE. (2020)</p>
 
-- <p style="text-align:justify;">Xin Li, Dongcheng Han, Jing He, Lejian Liao, Mingzhong Wang. "Next and Next New POI Recommendation via Latent Behavior Pattern Inference. ACM TOIS. (CCF A)</p>
+- <p style="text-align:justify;">Xin Li, Dongcheng Han, Jing He, Lejian Liao, Mingzhong Wang. "Next and Next New POI Recommendation via Latent Behavior Pattern Inference. ACM TOIS. (2019)</p>
 
 - <p style="text-align:justify;">Rui Ye, Xin Li, et al. "A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment", IJCAI 2019. (CCF A)</p>
 
