@@ -26,13 +26,13 @@
 {%- else -%}
 	{%- capture _heading -%}
 		<header>
-			<h2>
+			<font size="7" color="#292421" face="微软雅黑">
         {%- if include.auto-header == null or include.auto-header == 'use-title' -%}
           {{- _title -}}
         {%- else -%}
           {{- include.auto-header -}}
         {%- endif -%}
-      </h2>
+      </font>
       {%- if include.subtitle -%}<p>{{- include.subtitle -}}</p>{%- endif -%}
 		</header>
 	{%- endcapture -%}

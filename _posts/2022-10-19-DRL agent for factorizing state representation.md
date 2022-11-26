@@ -4,7 +4,6 @@ author: Hongyu Zang
 layout: post
 ---
 <!-- 日期可能需要改一下 -->
-
 <div class="container">
 	<p>In the cooperation of our lab, Mila, and MSR-Montreal, we designed a novel DRL framework to address the issue of designing the goal of the agent for high-dimensional sensory inputs by learning factorial representations of goals and processing the resulting representation via a discretization bottleneck.</p>
 </div>

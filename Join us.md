@@ -1,8 +1,20 @@
 ---
-title: Welcome to our Lab!
+layout: post
+title: Join us
 icon: fa-check
 order: 5
 ---
+
+
+<style type="text/css">
+.bio{
+  display: block;
+  margin-right: 20px;
+  float: left;
+  width: 150px;
+}
+</style>
+
 
 <p style="text-align:left;font-family:Cormorant SC;font-size:26px">Interested in joining the 1029DRL Group to work with us? Interested candidates can apply through the links below. The students are much prefered with the following skills/experiences:<br>
 ● Proactive/self-motivated attitude; and<br>
