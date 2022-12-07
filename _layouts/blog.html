@@ -17,7 +17,7 @@ layout: default
 			{% if _post.author -%}{{- _post.author }} | {% endif %}
 			{{- _post.date | date_to_long_string -}}
 		{%- endcapture -%}
-		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 36 -}}</p>
+		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 72 -}}</p>
 
 		{%- if _post.title == "DRL agent for factorizing state representation" -%}
 		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/img_reconstruct_vq-0.png"></div>
