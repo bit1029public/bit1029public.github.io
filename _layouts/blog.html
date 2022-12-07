@@ -17,7 +17,33 @@ layout: default
 			{% if _post.author -%}{{- _post.author }} | {% endif %}
 			{{- _post.date | date_to_long_string -}}
 		{%- endcapture -%}
-		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 60 -}}</p>{%- endcapture -%}
+		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 70 -}}</p>
+
+		{%- if _post.title == "DRL agent for factorizing state representation" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/img_reconstruct_vq-0.png"></div>
+		{%- endif -%}
+
+		{%- if _post.title == "DRL agent to learn invariant information in Autonomous Driving" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/car-small.gif"></div>
+		{%- endif -%}
+
+		{%- if _post.title == "Inverse Reinforcement Learning" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/dogbot-0.jpg"></div>
+		{%- endif -%}
+
+		{%- if _post.title == "DRL agent in Rabbids :100% win rate against human-players" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/rabbids.gif"></div>
+		{%- endif -%}
+
+		{%- if _post.title == "UVIN :An Universal DRL Method to Combine Planning and Learning" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;text-align:center"><img src="/assets/images/research/minecraft-big.gif"><br></div>
+		{%- endif -%}
+
+		{%- if _post.title == "ADRQN :On Improving Deep Reinforcement Learning for POMDPs" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;text-align:center"><img src="/assets/images/research/atari-big.gif"><br></div>
+		{%- endif -%}
+
+		{%- endcapture -%}
 
 		{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}

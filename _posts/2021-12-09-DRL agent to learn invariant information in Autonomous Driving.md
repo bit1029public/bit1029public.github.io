@@ -6,9 +6,11 @@ layout: post
 <!-- 日期可能需要改一下 -->
 <div class="container">
 	<p>In this project, we focus on learning invariant representation for Reinforcement Learning by extending the previous work of bisimulation metric. We devise Simple State Representation (SimSR) operator. SimSR enables us to design a stochastic approximation method that can practically learn the mapping functions (encoders) from observations to latent representation space.</p>
+	<div style="float:left;border:solid 1px 000;margin:20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/images/research/cartpole_swingup.gif"></div>
+	<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/walker_walk.gif"></div>
+	<br><br><br><br><br><br><br><br><br>
 	<p>We test our agents on three visual tasks: visual control tasks, visual control tasks whose background is disturbed by natural videos, and autonomous driving car in highway.</p>
 </div>
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/cartpole_swingup.gif"></div>
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/walker_walk.gif"></div>
-<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/car.gif"></div>
+
+<div style="float:left;border:solid 1px 000;margin:20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/images/research/car-small.gif"></div>
 <div style="float:none;clear:both;"></div>
