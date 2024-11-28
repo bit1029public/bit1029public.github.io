@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{%- include header.html -%}
+
+<!-- Main -->
+<div id="main">
+	<!-- Page -->
+	<article class="shade-two">
+	  <div class="container">
+			<header>
+				<font size="7" color="#292421" face="微软雅黑">{{- page.title -}}</font>
+				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
+			</header>
+	    {{- content -}}
+	  </div>
+	</article>
+</div>
