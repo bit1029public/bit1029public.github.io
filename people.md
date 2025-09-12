@@ -47,7 +47,7 @@ order: 4
 
 <font size="5" color="#696969" face="微软雅黑"><img class="bio" src="/assets/images/people/hyZang.jpg" float="left" clear="both" align="left" width="120"><font size="6" color="#6495ED" face="黑体">Hongyu Zang.</font> Former Ph.D. student in Computer Science at Beijing Institute of Technology, now working at Meituan. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. </font>
 <br>
-<p></p>
+
 ---
 <p></p>
   
