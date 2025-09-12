@@ -28,33 +28,23 @@ order: 4
 <p></p>
 
 <font size="5" color="#696969" face="微软雅黑"><font size="6" color="#6495ED" face="黑体">Yujie Fang.</font> Yujie Fang is a Ph.D. student. She received her Bachelor’s degree in Computer Science from the Beijing Institute of Technology. From 2023 to 2024, she was a visiting student at A*STAR in Singapore. Her research interests include the optimization of graph task inference and the use of large language models for graph-related problems (LLM4Graph).</font>
-<br>
 
 <font size="5" color="#696969" face="微软雅黑"><img class="bio" src="/assets/images/people/minWang.jpg" float="left" clear="both" align="left" width="120"><font size="6" color="#6495ED" face="黑体">Min Wang.</font> Min is a forth-year Ph.D. student in Computer Science at Beijing Institute of Technology. She received her M.Sc. degree from China Ship Research and Development Academy. She focuses on domain knowledge guided reinforcement learning and evolutionary game theory. Her work aims to improve the RL algorithms' sampling efficiency and speed up the agent's learning process. She is also interested in model-based planning and goal-conditioned RL.</font>
-<br>
 
 <font size="5" color="#696969" face="微软雅黑"><font size="6" color="#6495ED" face="黑体">Qianyu Chen.</font> Qianyu is a third-year Ph.D. student in Computer Science and Technology at Beijing Institute of Technology. She focuses on EHR-based machine learning, including drug recommendation and health risk prediction. Her work aims to improve the accuracy and safety of recommendations and predictions in the medical field. She is also interested in graph learning.</font>
-<br>
 
 <font size="5" color="#696969" face="微软雅黑"><font size="6" color="#6495ED" face="黑体">Ruobing Wang.</font> PhD student in Computer Science, Class of 2024, Beijing Institute of Technology, specializing in combinatorial optimization.</font>
-<br>
 
 <font size="5" color="#696969" face="微软雅黑"><font size="6" color="#6495ED" face="黑体">Yao-Hui Li.</font> Yao-Hui Li is a second-year Ph.D. student in Computer Science at Beijing Institute of Technology. His research interests lie in model-based reinforcement learning, deep reinforcement learning, and offline reinforcement learning. He is also keen on exploring topics at the intersection of vision-language-action models and sim-to-real reinforcement learning.</font>
-<br>
 
 <font size="5" color="#696969" face="微软雅黑"><img class="bio" src="/assets/images/people/wangyangchuan.png" float="left" clear="both" align="left" width="120"><font size="6" color="#6495ED" face="黑体">Yangchuan Wang.</font> Yangchuan Wang. A Ph.D. student in Computer Science at Beijing Institute of Technology, focusing on Reinforcement Learning (RL) and the alignment of Large Language Models (LLM).</font>
-<br>
 
 <p></p>
----
-<p></p>
-
 
 ## Undergraduate Ph.D. students
 <p></p>
 
 <font size="5" color="#696969" face="微软雅黑"><img class="bio" src="/assets/images/people/hyZang.jpg" float="left" clear="both" align="left" width="120"><font size="6" color="#6495ED" face="黑体">Hongyu Zang.</font> Former Ph.D. student in Computer Science at Beijing Institute of Technology, now working at Meituan. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. </font>
-<br>
 
 ---
 <p></p>
