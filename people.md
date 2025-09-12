@@ -45,8 +45,9 @@ order: 4
 <font size="5" color="#696969" face="微软雅黑"><img class="bio" src="/assets/images/people/wangyangchuan.png" float="left" clear="both" align="left" width="120"><font size="6" color="#6495ED" face="黑体">Yangchuan Wang.</font> Yangchuan Wang. A Ph.D. student in Computer Science at Beijing Institute of Technology, focusing on Reinforcement Learning (RL) and the alignment of Large Language Models (LLM).</font>
 <br>
 
----
 <p></p>
+---
+
 
 ## Undergraduate Ph.D. students
 <p></p>
