@@ -19,6 +19,14 @@ layout: default
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 72 -}}</p>
 
+		{%- if _post.title == "Multi-View Reinforcement Learning" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/MFSC_framework.png" style="width: 70%;"></div>
+		{%- endif -%}
+
+		{%- if _post.title == "Learning Latent Dynamic Robust Representations for World Models" -%}
+		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/HRSSM_framework.png"></div>
+		{%- endif -%}
+
 		{%- if _post.title == "DRL agent for factorizing state representation" -%}
 		<div style="float:center;border:solid 1px 000;margin:20px;"><img src="/assets/images/research/img_reconstruct_vq-0.png"></div>
 		{%- endif -%}
