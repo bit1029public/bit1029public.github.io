@@ -19,7 +19,7 @@ order: 4
 <!---![XinLi](/images/bios/XinLi.png)--->
 <p></p>
 
-<font size="5" color="#696969" face="微软雅黑"><img class="bio" src="/assets/images/people/XinLi.png" float="left" clear="both" align="left" width="120"> <font size="6" color="#6495ED" face="黑体">Xin Li.</font> Xin is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. <a href="http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm" style="color: green;">[Website]</a></font>
+<font size="5" color="#696969" face="微软雅黑"><img class="bio" src="/assets/images/people/XinLi_new.png" float="left" clear="both" align="left" width="120"> <font size="6" color="#6495ED" face="黑体">Xin Li.</font> Xin is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. <a href="http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm" style="color: green;">[Website]</a></font>
 <p></p>
 ---
 <p></p>
