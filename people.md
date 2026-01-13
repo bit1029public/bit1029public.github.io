@@ -94,13 +94,8 @@ order: 4
 
 <p></p>
 
-## Events
-<p></p>
-<img class="events" src="/assets/images/share01.jpg"  clear="both"  width="200">
 
-<p></p>
----
-<p></p>
+
 ## Collaborators
 <p></p>
 <font size="5" color="#696969" face="微软雅黑">We are proud to have collaborative work with esteemed researchers in ML/RL fields. </font>
