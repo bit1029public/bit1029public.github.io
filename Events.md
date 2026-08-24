@@ -39,3 +39,40 @@ order: 5
         </div>
     </div>
 </div>
+
+<!-- 植物园 -->
+<div style="margin-bottom: 50px;">
+    <h2 style="font-family: 'Source Sans Pro', sans-serif; font-size: 28px; color: #444; border-left: 5px solid #7fbf7f; padding-left: 15px; margin-bottom: 20px;">植物园团建</h2>
+
+    <p style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; color: #666; margin-bottom: 25px; line-height: 1.6;">
+        除了科研和日常聚餐，实验室也会不定期组织户外活动。大家一起去植物园逛逛、拍照、聊天，在忙碌的科研之余放松心情，也增进了实验室成员之间的交流与友谊。
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; text-align: left;">
+
+        <div style="width: 380px; height: 260px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            <img src="assets/images/group/garden01.jpg" alt="Botanical Garden 1" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+
+        <div style="width: 380px; height: 260px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            <img src="assets/images/group/garden02.jpg" alt="Botanical Garden 2" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+
+        <div style="width: 380px; height: 260px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            <img src="assets/images/group/garden03.jpg" alt="Botanical Garden 3" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+
+        <div style="width: 380px; height: 260px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            <img src="assets/images/group/garden04.jpg" alt="Botanical Garden 4" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+
+        <div style="width: 380px; height: 260px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            <img src="assets/images/group/garden05.jpg" alt="Botanical Garden 5" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+
+        <div style="width: 380px; height: 260px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            <img src="assets/images/group/garden06.jpg" alt="Botanical Garden 6" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+
+    </div>
+</div>
